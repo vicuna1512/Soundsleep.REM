@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sleepEon/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/sleepEon/static/js/main.0a7af028.chunk.js",
+    "main.js.map": "/sleepEon/static/js/main.0a7af028.chunk.js.map",
+    "runtime-main.js": "/sleepEon/static/js/runtime-main.78699b74.js",
+    "runtime-main.js.map": "/sleepEon/static/js/runtime-main.78699b74.js.map",
+    "static/js/2.9909fd95.chunk.js": "/sleepEon/static/js/2.9909fd95.chunk.js",
+    "static/js/2.9909fd95.chunk.js.map": "/sleepEon/static/js/2.9909fd95.chunk.js.map",
+    "index.html": "/sleepEon/index.html",
+    "precache-manifest.e546ef65032e96e693218eae31c00ff1.js": "/sleepEon/precache-manifest.e546ef65032e96e693218eae31c00ff1.js",
+    "service-worker.js": "/sleepEon/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/sleepEon/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9909fd95.chunk.js.LICENSE.txt": "/sleepEon/static/js/2.9909fd95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78699b74.js",
+    "static/js/2.9909fd95.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0a7af028.chunk.js"
+  ]
+}
